@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: projects.qmd
-        text: Project
+        text: Projects
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/ella-sylvester-86905a2a4/

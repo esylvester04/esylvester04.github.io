@@ -5,6 +5,8 @@ about:
   image: assets/headshot.png
   image-shape: round
   links:
+    - icon: geo-alt-fill
+      text: Smith College 2026
     - icon: inbox
       text: Email
       href: mailto:esylvester@smith.edu
