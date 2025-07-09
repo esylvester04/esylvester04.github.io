@@ -1,0 +1,21 @@
+---
+title: "Ella Sylvester"
+about:
+  template: jolla
+  image: assets/headshot.png
+  image-shape: round
+  links:
+    - icon: inbox
+      text: Email
+      href: mailto:esylvester@smith.edu
+    - icon: inboc
+      text: Email (Personal)
+      href: mailto:ellasylvester34@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/esylvester04
+---
+
+Smith College 2026
+
+Statistical & Data Sciences; Psychology 

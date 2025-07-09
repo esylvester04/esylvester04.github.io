@@ -1,0 +1,34 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Ella Sylvester"
+  navbar:
+    background: "#0B0B45"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Project
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ella-sylvester-86905a2a4/
+        target: blank 
+      - icon: github
+        href: https://github.com/esylvester04
+        target: blank
+      - icon: file-pdf
+        href: assets/resume.pdf
+        target: blank
+
+format:
+  html:
+    theme:
+      light: flatly 
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
