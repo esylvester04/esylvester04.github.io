@@ -8,12 +8,15 @@ about:
     - icon: geo-alt-fill
       text: Smith College 2026
       href: https://www.smith.edu/academics/statistical-data-sciences
+      target: blank
     - icon: inbox
       text: Email
       href: mailto:esylvester@smith.edu
+      target: blank
     - icon: github
       text: Github
       href: https://github.com/esylvester04
+      target: blank
 ---
 
 Smith College 2026
