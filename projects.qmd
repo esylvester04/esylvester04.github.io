@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "projects"
+listing:
+  contents: projects # name of the folder
+  type: default
 ---
 
 About this site

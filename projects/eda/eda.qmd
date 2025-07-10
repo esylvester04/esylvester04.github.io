@@ -4,6 +4,7 @@ description: "CMU Sports Analytics summer 2025 EDA project"
 date: Juen 2025
 about: 
   template: solana
+  image: projects/eda/cover.jpeg
   links: 
     - icon: github
       text: "Github"
