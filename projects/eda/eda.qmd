@@ -1,0 +1,18 @@
+---
+title: "CMU EDA project"
+description: "CMU Sports Analytics summer 2025 EDA project"
+date: Juen 2025
+about: 
+  template: solana
+  links: 
+    - icon: github
+      text: "Github"
+      href: "https://github.com/esylvester04/CMU-EDA-2025"
+    - icon: easel
+      text: "Presentation"
+      href: projects/eda/eda-pres.pdf
+format: html
+---
+
+
+This is my EDA project for the Sports Analytics Research Program at Carnegie Mellon, summer 2025. 
