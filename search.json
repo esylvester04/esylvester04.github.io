@@ -7,6 +7,13 @@
     "text": "Smith College 2026\nStatistical & Data Sciences; Psychology"
   },
   {
+    "objectID": "projects/wnbaherstory/wnbaherstory.html",
+    "href": "projects/wnbaherstory/wnbaherstory.html",
+    "title": "wnbaheRstory",
+    "section": "",
+    "text": "Created as a final project for Programming in R with Professor Ben Baumer, at Smith College Fall 2024"
+  },
+  {
     "objectID": "projects/eda/eda.html",
     "href": "projects/eda/eda.html",
     "title": "CMU EDA project",
@@ -18,6 +25,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "WNBA Expansion & Roster Construction Project\n\n\n\n\n\nCapstone Project– CMU Sports Analytics, Summer 2025\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCMU EDA project\n\n\n\n\n\nCMU Sports Analytics summer 2025 EDA project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "WNBA Expansion & Roster Construction Project\n\n\n\n\n\nCapstone Project– CMU Sports Analytics, Summer 2025\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCMU EDA project\n\n\n\n\n\nCMU Sports Analytics summer 2025 EDA project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nwnbaheRstory\n\n\n\n\n\nR Project with web scraping tools and functions for historical WNBA data\n\n\n\n\n\nDec 1, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
