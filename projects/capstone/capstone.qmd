@@ -1,0 +1,17 @@
+---
+title: "WNBA Expansion & Roster Construction Project"
+description: "Capstone Project-- CMU Sports Analytics, Summer 2025"
+date: July 2025
+resources: "."
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "Github"
+      href: "https://github.com/esylvester04/wnba-CMU"
+    - icon: file-code
+      text: "Presentation"
+format: html
+---
+
