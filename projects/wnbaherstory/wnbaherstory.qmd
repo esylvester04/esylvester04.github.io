@@ -1,5 +1,5 @@
 ---
-title: "wnbaheRstory R Project"
+title: "wnbaheRstory"
 description: "R Project with web scraping tools and functions for historical WNBA data"
 date: December 2024
 about: 
@@ -12,3 +12,4 @@ about:
 format: html
 ---
 
+Created as a final project for Programming in R with Professor Ben Baumer, at Smith College Fall 2024 
