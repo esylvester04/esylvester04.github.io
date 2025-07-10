@@ -1,0 +1,14 @@
+---
+title: "wnbaheRstory R Project"
+description: "R Project with web scraping tools and functions for historical WNBA data"
+date: December 2024
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "Github"
+      href: "https://github.com/sds270-f24/wnbaherstory"
+format: html
+---
+
