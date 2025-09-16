@@ -31,3 +31,5 @@ I am a senior at Smith College (Class of 2026), double majoring in Statistical &
 My experience as a student-athlete has strengthened skills that translate directly into data science: teamwork, resilience, and the ability to perform under pressure. Just as I value contributing to a data project, I enjoy being part of a basketball team where everyone works toward something bigger than themselves, and I carry that same commitment to collaboration into everything I do.
 
 
+
+
