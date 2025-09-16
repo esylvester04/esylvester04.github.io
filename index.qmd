@@ -19,6 +19,12 @@ about:
       target: blank
 ---
 
-Smith College 2026
+Smith College Class of 2026
+Double Major in Statistical & Data Sciences; Psychology 
+Smith College Basketball, Team Captain
 
-Statistical & Data Sciences; Psychology 
+I am a senior at Smith College (Class of 2026), double majoring in Statistical & Data Sciences. I have a broad background in data science, with experience in statistical modeling, data visualization, and machine learning, and I enjoy tackling complex problems with creative, data-driven solutions. While many of my projects have focused on sports analytics, I am equally motivated by the challenge of applying these skills across different domains.
+
+My experience as a student-athlete has strengthened skills that translate directly into data science: teamwork, resilience, and the ability to perform under pressure. Just as I value contributing to a data project, I enjoy being part of a basketball team where everyone works toward something bigger than themselves, and I carry that same commitment to collaboration into everything I do.
+
+
